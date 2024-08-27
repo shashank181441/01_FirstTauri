@@ -1,0 +1,13 @@
+{
+    "merchantId": "2222410015508533",
+    "deviceId": "b661fc4d-dd75-4105-ba96-6df1439ad96b",
+    "transactionStatus": "{\"success\":true,\"message\":\"VERIFIED\",\"qrVerified\":true}",
+    "socketUrl": "ws://fonepay-web-socket.acquirer-module:6000/merchantEndPoint/b661fc4d-dd75-4105-ba96-6df1439ad96b/2222410015508533/N"
+}
+
+{
+    "merchantId": "2222410015508533",
+    "deviceId": "b661fc4d-dd75-4105-ba96-6df1439ad96b",
+    "transactionStatus": "{\"traceId\":304107677,\"remarks1\":\"[\\\"Dairy Milk\\\",\\\"Kurkure\\\"];test \",\"transactionDate\":\"Aug 25, 2024, 5:47:03 PM\",\"productNumber\":\"1724587280668\",\"amount\":1.24,\"message\":\"RES000\",\"success\":true,\"commissionType\":\"Charge\",\"commissionAmount\":0.0,\"totalCalculatedAmount\":1.24,\"paymentSuccess\":true}",
+    "socketUrl": "ws://fonepay-web-socket.acquirer-module:6000/merchantEndPoint/b661fc4d-dd75-4105-ba96-6df1439ad96b/2222410015508533/N"
+}
