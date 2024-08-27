@@ -19,7 +19,7 @@ then run
 npm run tauri dev
 ```
 this will run your react code on tauri environment, note that it is not "npm run dev", which will open the react app on browser.
-finally to build the desktop app, you need to run the command:
+Finally, to build the desktop app, you need to run the command:
 ```
 npm run tauri build
 ```
